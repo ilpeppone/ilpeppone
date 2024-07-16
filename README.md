@@ -3,6 +3,8 @@
 I'm Italian, and since I was a child, I've loved everything about computers, video games, and multimedia.
 Here you'll find some projects and exercise solutions I've worked on.
 
+--- 
+
 <p align="center">
   <strong>🔻🔻🔻🔻 Those are the programs that I like most 🔻🔻🔻🔻</strong>
 </p>
