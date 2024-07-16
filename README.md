@@ -1,5 +1,5 @@
-## 👋😎 Hi everyone, my name is Giuseppe. <img alt="peppone" width="40px" style="padding-right:10px;" src=""C:\Users\peppe\Desktop\windows xp soci\peppok.png"" />
-
+## 👋😎 Hi everyone, my name is Giuseppe.
+ <img alt="peppone" width="40px" style="padding-right:10px;" src="C:\Users\peppe\Desktop\windows xp soci\peppok.png" />
 I'm Italian, and since I was a child, I've loved everything about computers, video games, and multimedia.  
 Here you'll find some projects and exercise solutions I've worked on.
 
