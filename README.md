@@ -4,4 +4,5 @@ I'm Italian, and since I was a child, I've loved everything about computers, vid
 Here you'll find some projects and exercise solutions I've worked on.
 
 #### 🔻🔻🔻🔻 Those are the programs that i like most, order by preference 🔻🔻🔻🔻
- <img alingn="left" alt="photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" >
+ <img alingn="left" alt="photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+ <img alingn="left" alt="photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
