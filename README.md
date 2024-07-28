@@ -5,7 +5,7 @@ Here you'll find some projects and exercise solutions I've worked on.
 --- 
 
 <p align="center">
-  <strong>🔻🔻🔻🔻 Those are the programs that I like most 🔻🔻🔻🔻</strong>
+  <strong>🔻🔻🔻🔻 These are the programs that I like most 🔻🔻🔻🔻</strong>
 </p>
 
 <div align="center">
