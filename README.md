@@ -1,7 +1,5 @@
 ## 👋😎 Hi everyone, my name is Giuseppe.
 
---- 
-
 <p align="center">
   <strong>🔻🔻🔻🔻 The programs that I like most 🔻🔻🔻🔻</strong>
 </p>
