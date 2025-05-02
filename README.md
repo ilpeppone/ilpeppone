@@ -17,7 +17,5 @@
   <img alt="premierepro" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 </div>
 
-[![ilpeppone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilpeppone)](https://github.com/anuraghazra/github-readme-stats)
-
 <br clear="left"/>
 
