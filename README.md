@@ -1,7 +1,8 @@
 ## 👋 Hey there, I'm Giuseppe!
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&center=true&width=435&lines=Computer+Science+Student;Web+%26+Software+Developer;Code.+Create.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=COMPUTER+SCIENCE+STUDENT;WEB+%26+SOFTWARE+DEVELOPER;CODE.+CREATE.+REPEAT." alt="Typing SVG" />
 </p>
 
 ---
