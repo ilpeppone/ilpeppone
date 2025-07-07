@@ -25,7 +25,6 @@
 
 > 🎮 Big fan of gaming, memes, and Japanese culture.  
 > 🧠 Currently diving into CS at Uni of Ferrara.  
-> 💡 Always building something new.
 
 ---
 
