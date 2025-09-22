@@ -1,4 +1,4 @@
-<h1 align="centre">👋 Hey there, I'm Giuseppe! </h1>
+<h1 align="center">👋 Hey there, I'm Giuseppe! </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=COMPUTER+SCIENCE+STUDENT;WEB+%26+SOFTWARE+DEVELOPER;CODE.+CREATE.+REPEAT." alt="Typing SVG" />
 </p>
