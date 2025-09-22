@@ -22,10 +22,12 @@
 </p>
 
 ---
+
 <p align="center">
  🎮 Big fan of gaming, memes, and Japanese culture.</br>  
  🧠 Currently diving into CS at Uni of Ferrara.  
 </p>
+
 ---
 
 ### 📫 Contacts
