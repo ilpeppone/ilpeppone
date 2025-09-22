@@ -1,12 +1,12 @@
+<h1 align="centre">👋 Hey there, I'm Giuseppe! </h1>
 <p align="center">
-  <h1>👋 Hey there, I'm Giuseppe! </h1>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=COMPUTER+SCIENCE+STUDENT;WEB+%26+SOFTWARE+DEVELOPER;CODE.+CREATE.+REPEAT." alt="Typing SVG" />
 </p>
 
 ---
 
+<h2 align="center">🔥 Tech I Enjoy Working With </h2>
 <p align="center">
-  <h2>🔥 Tech I Enjoy Working With </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30px"/>
