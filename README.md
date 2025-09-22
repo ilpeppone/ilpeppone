@@ -28,7 +28,7 @@
 
 ---
 
-### 📫 Contacts
+<h4 align="center">📫 Contacts </h4>
 <p align="center">
   <a href="mailto:pepperusso07@gmail.com"><img src="https://img.shields.io/badge/Gmail-pepperusso07@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </p>
