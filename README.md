@@ -26,7 +26,6 @@
  🧠 Currently diving into CS at Uni of Ferrara.  
 </p>
 
----
 
 <h4 align="center">📫 Contacts </h4>
 <p align="center">
