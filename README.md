@@ -10,17 +10,18 @@
 
 <p align="center">
   🎮 Big fan of gaming, memes, and Japanese culture. <br>
-  🎓 Bachelor's degree in computer science at Uni of Ferrara.
+  🎓 Bachelor's degree in computer science at University of Ferrara. <br>
+  📚 Currently studying Computer and Automation Engineering at the University of Ferrara, specializing in the Industry 4.0 curriculum.
 </p>
 
 #### <p align="center">📫 Contacts</p>
 
 <p align="center">
   <a href="mailto:giuseppe.viggiano@edu.unife.it">
-    <img src="https://img.shields.io/badge/Gmail-giuseppe.viggiano@edu.unife.it-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-giuseppe.viggiano@edu.unife.it-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="mailto:pepperusso07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-pepperusso07@gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-pepperusso07@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/giuseppe-viggiano/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Giuseppe_Viggiano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
